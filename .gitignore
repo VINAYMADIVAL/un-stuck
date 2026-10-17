@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+status/
+evals/results.json
+fleet.local.json
+*.bak
+.env
+.DS_Store

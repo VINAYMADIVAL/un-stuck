@@ -1,0 +1,9 @@
+{
+  "profiles_dir": "~/.hermes/profiles",
+  "profiles": {
+    "central": "unstuck-central",
+    "whatsapp": "my-existing-whatsapp-profile",
+    "telegram": "my-existing-telegram-profile",
+    "discord": "my-existing-discord-profile"
+  }
+}

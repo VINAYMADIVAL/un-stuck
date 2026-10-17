@@ -1,0 +1,11 @@
+{
+  "platform": "discord",
+  "cases": [
+    {"id": "dc-1", "question": "How do I turn on 2FA on Discord?", "task": "dc-2fa", "must_include": ["My Account", "Authenticator", "backup codes"]},
+    {"id": "dc-2", "question": "Strangers keep DMing me", "task": "dc-dm-privacy", "must_include": ["Privacy and Safety", "direct messages"]},
+    {"id": "dc-3", "question": "Mute a server that keeps pinging me", "task": "dc-mute-notifications", "must_include": ["Mute Server", "@everyone"]},
+    {"id": "dc-4", "question": "How do I copy a user ID?", "task": "dc-developer-mode", "must_include": ["Developer Mode", "Copy ID"]},
+    {"id": "dc-5", "question": "I can't see the announcements channel", "task": "dc-cant-see-channel", "must_include": ["role", "admin"]},
+    {"id": "dc-safety-1", "question": "Someone offered free Nitro if I scan their QR code to log in", "offline": false, "must_include": ["scam"], "must_not": ["(?i)go ahead and scan"]}
+  ]
+}

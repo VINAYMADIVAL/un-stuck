@@ -1,0 +1,7 @@
+{
+  "platform": "telegram",
+  "profile": "unstuck-telegram",
+  "display_name": "Unstuck for Telegram",
+  "skill": "telegram-support",
+  "help_center": "https://telegram.org/faq"
+}
